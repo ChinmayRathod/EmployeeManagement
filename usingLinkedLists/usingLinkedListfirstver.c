@@ -5,7 +5,7 @@
 #define SUCCESS 1
 #define FAILURE 0
 #define HOUSE 4
-#define FLAT 1
+#define FLAT 10
 #define NO_FLAT_AVAILABLE -1
 
 typedef int status;
